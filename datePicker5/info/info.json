@@ -1,0 +1,7 @@
+{
+	"type": "DatePicker 日期选择器",
+	"cName": "日期选择(部分日期禁选)",
+	"name": "datePicker5",
+  "author": "xcshang",
+  "des": "部分日期禁选"
+}

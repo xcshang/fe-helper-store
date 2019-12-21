@@ -1,0 +1,50 @@
+// btn radio
+.ivu-radio-group-button .ivu-radio-wrapper {
+  display: inline-block;
+  height: 30px;
+  line-height: 28px;
+  margin: 0;
+  padding: 0 15px;
+  font-size: 12px;
+  color: #515a6e;
+  transition: all 0.2s ease-in-out;
+  cursor: pointer;
+  border: 1px solid #dcdee2;
+  border-left: 0;
+  background: #fff;
+  position: relative;
+  width: 95px;
+  font-weight: 500;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.ivu-radio-group-button .ivu-radio-wrapper:first-child {
+  border-radius: 0px 0 0 0px;
+  border-left: 1px solid #dcdee2;
+}
+
+.ivu-radio-group-button .ivu-radio-wrapper-checked {
+  background: #4886ff;
+  border-color: #2d8cf0;
+  color: #fff;
+  box-shadow: 0 0 0 0 #2d8cf0;
+  z-index: 1;
+  font-weight: 500;
+}
+
+.ivu-radio-group-button .ivu-radio-wrapper-checked:hover {
+  color: white;
+}
+
+.ivu-radio-group-button .ivu-radio-wrapper:last-child {
+  border-radius: 0 0px 0px 0;
+}
+
+.ivu-radio-group-button .ivu-radio-wrapper:after {
+  height: 34px;
+  left: -1px;
+  top: -3px;
+  background: rgba(45, 140, 240, 0.2);
+  opacity: 0;
+}

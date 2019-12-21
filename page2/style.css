@@ -1,0 +1,21 @@
+.page-box {
+  padding: 32px 0;
+}
+
+.PageClass {
+  float: right;
+}
+
+.PageSpanClass {
+  float: right;
+  padding: 8px;
+}
+
+.page-box .ivu-page-item-active {
+    border-color: #4886FF;
+    background-color: #4886FF;
+    /* color: white; */
+}
+.page-box .ivu-page-item-active a, .ivu-page-item-active:hover a {
+  color: white;
+}

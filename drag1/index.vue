@@ -1,0 +1,1 @@
+SysName|SysName,IP|ip,端口号|port,端口名|portName,	服务资产号|assetNo,服务器IP|serverIP,服务器SN|SN,操作

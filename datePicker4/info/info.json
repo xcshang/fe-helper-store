@@ -1,0 +1,7 @@
+{
+	"type": "DatePicker 日期选择器",
+	"cName": "月份选择(默认值+禁选设置)",
+	"name": "datePicker4",
+  "author": "xiaoqionglin",
+  "des": "为月度选择器设置默认值，禁止选中当前月之后的月份，适用于各类盘点统计系统"
+}

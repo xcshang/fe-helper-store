@@ -1,0 +1,18 @@
+.fehelp-modal3{
+  .ivu-alert{
+    border: none;
+    background: none;
+  }
+  .fehelp-modal3-btn{
+    position: relative;
+    height: 60px;
+    .ivu-btn{
+      margin-left: 10px;
+    }
+  }
+  .fehelp-modal3-btn-right{
+    position: absolute;
+    right: 0;
+    top: 10px;
+  }
+}
