@@ -1,7 +1,0 @@
-{
-	"type": "图表",
-	"cName": "柱状图顶部显示值",
-	"name": "chart1",
-	"desc": "基于echart，在柱状图顶部显示数值",
-	"author": "xcshang"
-}
